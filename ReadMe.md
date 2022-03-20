@@ -12,6 +12,7 @@ Thomas High School ninth graders seem to have had their grades altered thus tamp
 * If those students had done well and were removed, the scrores wouldn't have shifted nearly as much. Replacing those scores did more for the school's performance metric instead.
 
 * Replacing the grades in the Math and Reading makes all the scores look even, no school does higher than 84% on math and on reading no school has higher than 85%.
+
 ![Average_Math_Scores](https://github.com/Cyber-Wolfe/School_Analysis/blob/main/Resources/Pictures/Average_Math_Scores.PNG) ![Average Reading Scores](https://github.com/Cyber-Wolfe/School_Analysis/blob/main/Resources/Pictures/Average%20Reading%20Scores.PNG)
 
 
