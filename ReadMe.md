@@ -5,7 +5,7 @@ Thomas High School ninth graders seem to have had their grades altered thus tamp
 
 ## Results
 
-* The effect that the audit had on the district summary was minimal at best. Pulling one number out of this semi large set that was similar to the rest changed next to nothing.[District_Summary]]
+* The effect that the audit had on the district summary was minimal at best. Pulling one number out of this semi large set that was similar to the rest changed next to nothing. ![District_Summary.png](https://github.com/Cyber-Wolfe/School_Analysis/blob/main/Resources/Pictures/District_Summary.PNG)
 
 * The school summary though had a little more  seems that when the data was recalculated it shows that whoever tampered with the school data of Thomas High School was trying to damage their overall performance. In the before we can see the Average Math, Reading, Passing Math, Passing Reading, and overall go from low scores to high scores. [Before_Audit_of_Thomas] [After_Audit_of_Thomas]
 
@@ -14,9 +14,9 @@ Thomas High School ninth graders seem to have had their grades altered thus tamp
 * Replacing the grades in the Math and Reading makes all the scores look even, no school does higher than 84% on math and on reading no school has higher than 85%.
 [Average_Math_Scores][Average Reading Scores]
 
-* The chart shows that the less money spent gives the best performance from students
+* The chart shows that the less money spent gives the best performance from the students.
 
-* The best scores come from the smallet schools.
+* The best scores come from the smallet schools, more attention per student.
 
 * Even with the 9th graders from Thomas removed, the Charter schools come out on top with the highest scores.
 
