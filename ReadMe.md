@@ -25,4 +25,4 @@ Thomas High School ninth graders seem to have had their grades altered thus tamp
 * Even with the 9th graders from Thomas removed, the Charter schools come out on top with the highest scores.
 ![Scores_by_school_type.PNG](https://github.com/Cyber-Wolfe/School_Analysis/blob/main/Resources/Pictures/Scores_by_school_type.PNG)
 
-The handful of changes that were the four overall grades changing from 83.35, 83.89, 66.91, 69.66, and 65.07 to 83.35, 83.89, 93.18, 97.01, and 90.63 respectively. Which shows that removing the scores created a better visualiztion of peforance.
+The handful of changes that were the four overall grades changing from 83.35, 83.89, 66.91, 69.66, and 65.07 to 83.35, 83.89, 93.18, 97.01, and 90.63 respectively. Which shows that removing the scores created a better visualiztion of peformance.
